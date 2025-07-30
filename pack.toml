@@ -1,0 +1,13 @@
+name = "Minecraft Modpack"
+author = "tsea"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "35aaef388f9e2b2fec7ee43f30239f6f74baa2bebb06e4239469d8a92c78d32d"
+
+[versions]
+forge = "47.4.4"
+minecraft = "1.20.1"
