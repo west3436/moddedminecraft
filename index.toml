@@ -401,11 +401,6 @@ hash = "b6e96f4d009b04c0bc19a0093645db8087347927c41ae526dd3508f8ff44da10"
 metafile = true
 
 [[files]]
-file = "mods/the-graveyard-forge.pw.toml"
-hash = "34c753d57921285a83277436458188043f5a1b9f7cfdd48a54fc12cddb97c6c7"
-metafile = true
-
-[[files]]
 file = "mods/tinkers-construct.pw.toml"
 hash = "da92e9606b616857fd108d05d713d93cd9f6c586ed00ca0b696cc90f19eba6b4"
 metafile = true
