@@ -66,11 +66,6 @@ hash = "1e56f528d8e21b0cf9c52c3d6deea2a4eafa408170b39a070195dbf66617f373"
 metafile = true
 
 [[files]]
-file = "mods/create-industry.pw.toml"
-hash = "3f74c7069c0fb87ef59dd8eb54144f67b3277fb5f8533abe19b190c66dbb973e"
-metafile = true
-
-[[files]]
 file = "mods/create-ore-excavation.pw.toml"
 hash = "8afb3ffed4dffa0158402f24cb1a6ba232f1a65560c955bb0d9ccc8ed33a2e85"
 metafile = true
@@ -313,11 +308,6 @@ metafile = true
 [[files]]
 file = "mods/oculus.pw.toml"
 hash = "5ef885f9912ff6aa73db254b63a3cd22520f06261bc3c38e7c92f449806a9044"
-metafile = true
-
-[[files]]
-file = "mods/old-guns-mod.pw.toml"
-hash = "36e5678b8b39ba7d80eb955ceb5259e46adda131bb39796cb4eaf6920ff6360f"
 metafile = true
 
 [[files]]
