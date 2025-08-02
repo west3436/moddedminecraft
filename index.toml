@@ -26,16 +26,6 @@ hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
 metafile = true
 
 [[files]]
-file = "mods/aquaculture-delight.pw.toml"
-hash = "da06aae3c2a37a247a474578a2e86ed604a5c282c62c524b4abea6333c0254e8"
-metafile = true
-
-[[files]]
-file = "mods/aquaculture.pw.toml"
-hash = "c4ba20c9dc88687865d5c9dd2b6e0043a69055c46b8fd935dd74c43ee56b5428"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "5e9edd1fd2395f14a0c8a4acbdbdd61e1047be1f0033deb3140d2ce0d093e9d8"
 metafile = true
@@ -108,11 +98,6 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "1e56f528d8e21b0cf9c52c3d6deea2a4eafa408170b39a070195dbf66617f373"
-metafile = true
-
-[[files]]
-file = "mods/copycats.pw.toml"
-hash = "408ce5619020064fc084d150d331edc654bbf1749bbd289e19f050a0df51f1c8"
 metafile = true
 
 [[files]]
